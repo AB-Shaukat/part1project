@@ -1,4 +1,4 @@
-# assignment3
+# gymProject
 -own css
  
 -readings:
