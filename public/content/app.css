@@ -1,17 +1,20 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
 }
 body{
     background-color: #895E1A;
-    color:rgb(255, 255, 255); 
+    color:rgb(67, 36, 13); 
 }
+/*manager page*/
 h1{
-    color: rgb(254, 254, 254)240, 240;
+    color: rgb(57, 30, 11)240, 240;
     text-align: center;
     font-size: 46px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-style: italic;
 }
 h4 {
 font-size: 16px;
@@ -32,7 +35,8 @@ h5{
   
 }
 h6{
-  font-size: small;
+  font-size: medium;
+  font-style: normal;
 }
 /*to style the wrapper id */
 .wrapper{
@@ -64,7 +68,7 @@ nav ul li a::after{
   content:'';
   width: 0;
   height: 2px;
-  background: rgb(108, 173, 208);
+  background: rgb(58, 47, 18);
   position: absolute;
   left: 0;
   bottom: -5px;
@@ -76,7 +80,7 @@ nav ul li a:hover::after{
 }
 
 table {
-background-color: rgb(214, 138, 57);
+background-color: rgb(229, 136, 36);
 font-size: 18px;
 }
 
@@ -86,7 +90,7 @@ text-align: left;
 }
 /*for index*/
 .container2 {
-  background-color: #2e261aab;
+  background-color: rgba(0, 0, 0, 0.797);
   text-align: left;
   }
 h3{
@@ -111,13 +115,14 @@ h3{
 } */
 .button1 {
   display: inline-block;
-  border-radius: 48px;
-  background-color: #fbc100;
-  color: #011212;
+  border-radius: 52px;
+  background-color: rgba(67, 36, 13, 0.941); 
+
+  color: #0a0a0a;
   text-align: center;
-  font-size: 22px;
+  font-size: 20px;
   padding: 20px;
-  width: 200px;
+  width: 180px;
   transition: all 0.2s;
   cursor: pointer;
   margin: 5px;
@@ -146,4 +151,7 @@ h3{
 .button1:hover span:after {
   opacity: 10;
   right: 0;
+}
+#button {
+  color: #895E1A;
 }
