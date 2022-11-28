@@ -15,7 +15,7 @@ module.exports.displaygym = (req,res,next)=>{
         else
         {
             res.render('task/gymlist',{
-                title:'Gym Something', 
+                title:'Fitness Club Schedule', 
                 gym: taskmanager
             })
         }

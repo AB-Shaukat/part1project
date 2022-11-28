@@ -1,5 +1,5 @@
 let mongoose = require('mongoose');
-//creating a task model
+//creating a gym task model
 let task_model = mongoose.Schema(
     {
         MemberName: String,
