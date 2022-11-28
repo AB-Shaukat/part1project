@@ -13,6 +13,13 @@ https://stackoverflow.com/questions/69536930/cannot-make-a-to-do-list-app-using-
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration#:~:text=The%20text%2Ddecoration%20shorthand%20CSS,text%2Ddecoration%2Dthickness%20property.
 
+https://99designs.ca/profiles/eqoominteractive/designs/422074
+
+https://www.schemecolor.com/bronze-gradient.php
+
+https://www.w3.org/Style/Examples/007/fonts.en.html
+
+
 -in nav:
  https://www.youtube.com/watch?v=RiI1NkaDXlQ
  
