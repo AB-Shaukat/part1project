@@ -65,6 +65,7 @@ module.exports.displayEditPage = (req,res,next)=>{
 module.exports.processEditPage = (req,res,next)=>{
     let id=req.params.id;
     let updateTask = Task({
+        "_id":id,
         "MemberName":req.body.MemberName,
         "MemberID":req.body.MemberID,
         "ClassDate":req.body.ClassDate,
